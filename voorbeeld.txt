@@ -19,4 +19,4 @@ git commit -am "tekst"
 De git repository staat nog steeds alleen lokaal op mijn systeem
 ik kan nog niet samen werken!
 
-
+git diff is ook handig commando om te weten wat er aan de hand is met je repository
