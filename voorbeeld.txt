@@ -1,1 +1,22 @@
-test
+test van Git versie beheer
+
+mkdir naam
+cd naam
+
+git init
+#samira de eerste keer moet je nog wat extra dingen doen om het werkend te krijgen 
+#dit laat ik je zo zien
+
+
+git status
+
+git add filenaam
+
+git commit -am "tekst"
+-a staat voor alles
+-m memory info welke status je bedoeld
+
+De git repository staat nog steeds alleen lokaal op mijn systeem
+ik kan nog niet samen werken!
+
+
