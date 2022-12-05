@@ -5,8 +5,8 @@ cd naam
 
 git init
 #samira de eerste keer moet je nog wat extra dingen doen om het werkend te krijgen 
-#dit laat ik je zo zien
-
+  git config --global user.email "jouw mail adres@blabla.com"
+  git config --global user.name "verzin een naam die duidelijk is voor je collegas"
 
 git status
 
