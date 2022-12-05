@@ -20,3 +20,15 @@ De git repository staat nog steeds alleen lokaal op mijn systeem
 ik kan nog niet samen werken!
 
 git diff is ook handig commando om te weten wat er aan de hand is met je repository
+
+toegevoegd informatie over hoe ik dat moet doen krijg ik op de website als ik nieuwe repo aanmaak.
+git remote add origin git@github.com:Milio64/voorbeeld.git
+git branch -M main
+git push -u origin main
+
+
+history, is om te zien wat ik allemaal in geklopd heb op de command line 
+
+
+
+                                       
